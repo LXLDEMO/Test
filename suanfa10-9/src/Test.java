@@ -5,14 +5,18 @@ import java.util.Scanner;
 public class Test {
 
 	/**
-	 * ceshi²âÊÔ  ²âÊÔ
+	 * ceshiæµ‹è¯•  æµ‹è¯•
 	 */
 	
 	
+	/**
 	
+	pullæµ‹è¯•
+
+	*/
 	
 	/**
-	 * javaÖĞµÄÊä³öºÜºÄ£¬¿ÉÒÔÍ¨¹ıstringBufferÀ´Æ´½Ó×îºó½øĞĞÊä³ö
+	 * javaä¸­çš„è¾“å‡ºå¾ˆè€—ï¼Œå¯ä»¥é€šè¿‡stringBufferæ¥æ‹¼æ¥æœ€åè¿›è¡Œè¾“å‡º
 	 * @param args
 	 */
 	public static void main(String[] args) {
@@ -20,7 +24,7 @@ public class Test {
 		Scanner scanner = new Scanner(System.in);
 //		while (scanner.hasNext()) {
 //			int num = scanner.nextInt();
-//			//Êä³ö¶ÔÓ¦µÄ¶ş½øÖÆ ²»¼ÓÇ°µ¼0
+//			//è¾“å‡ºå¯¹åº”çš„äºŒè¿›åˆ¶ ä¸åŠ å‰å¯¼0
 //			System.out.println(Integer.toBinaryString(scanner.nextInt()));
 //		}
 		
@@ -49,7 +53,7 @@ public class Test {
 //				arr[i]  = scanner.nextInt();
 //			}
 //			Arrays.sort(arr);
-//			//Ä¬ÈÏ³õÊ¼ÖµÊÇfalse
+//			//é»˜è®¤åˆå§‹å€¼æ˜¯false
 //			boolean flags[] = new boolean[200];
 //			for (int i = 0; i < 2*N; i++) {
 //				if (!flags[arr[i]]) {
