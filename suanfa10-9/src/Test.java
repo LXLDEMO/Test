@@ -5,6 +5,13 @@ import java.util.Scanner;
 public class Test {
 
 	/**
+	 * ceshi测试
+	 */
+	
+	
+	
+	
+	/**
 	 * java中的输出很耗，可以通过stringBuffer来拼接最后进行输出
 	 * @param args
 	 */
