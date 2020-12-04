@@ -5,18 +5,20 @@ import java.util.Scanner;
 public class Test {
 
 	/**
-	 * ceshi测试  测试
+	 * ceshi娴嬭瘯  娴嬭瘯
 	 */
 	
-	
+	/**
+	 * 编码有问题
+	 */
 	/**
 	
-	pull测试
+	pull娴嬭瘯
 
 	*/
 	
 	/**
-	 * java中的输出很耗，可以通过stringBuffer来拼接最后进行输出
+	 * java涓殑杈撳嚭寰堣�楋紝鍙互閫氳繃stringBuffer鏉ユ嫾鎺ユ渶鍚庤繘琛岃緭鍑�
 	 * @param args
 	 */
 	public static void main(String[] args) {
@@ -24,7 +26,7 @@ public class Test {
 		Scanner scanner = new Scanner(System.in);
 //		while (scanner.hasNext()) {
 //			int num = scanner.nextInt();
-//			//输出对应的二进制 不加前导0
+//			//杈撳嚭瀵瑰簲鐨勪簩杩涘埗 涓嶅姞鍓嶅0
 //			System.out.println(Integer.toBinaryString(scanner.nextInt()));
 //		}
 		
@@ -53,7 +55,7 @@ public class Test {
 //				arr[i]  = scanner.nextInt();
 //			}
 //			Arrays.sort(arr);
-//			//默认初始值是false
+//			//榛樿鍒濆鍊兼槸false
 //			boolean flags[] = new boolean[200];
 //			for (int i = 0; i < 2*N; i++) {
 //				if (!flags[arr[i]]) {
